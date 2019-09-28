@@ -1,0 +1,52 @@
+{
+  "connection": "default",
+  "collectionName": "",
+  "info": {
+    "name": "dictionary",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "word": {
+  "type": "string"
+},
+"phonetic": {
+  "type": "string"
+},
+"definition": {
+  "type": "string"
+},
+"translation": {
+  "type": "string"
+},
+"pos": {
+  "type": "string"
+},
+"collins": {
+  "type": "string"
+},
+"oxford": {
+  "type": "string"
+},
+"tag": {
+  "type": "string"
+},
+"bnc": {
+  "type": "string"
+},
+"frq": {
+  "type": "string"
+},
+"exchange": {
+  "type": "string"
+},
+"detail": {
+  "type": "string"
+},
+"audio": {
+  "type": "string"
+}
+  }
+}
